@@ -1,7 +1,7 @@
-# Pylint of Kahooa Board Game
+# Pylint of Kaooa Board Game
 
 ## Objective
-For this project, I have used the **Pylint** module to conduct static code analysis (linting) on a Python program, specifically the code for the **Kahooa Board Game** (from Assignment 1). The purpose was to identify issues in the code and address them based on the recommendations provided by Pylint.
+For this project, I have used the **Pylint** module to conduct static code analysis (linting) on a Python program, specifically the code for the **Kaooa Board Game**. The purpose was to identify issues in the code and address them based on the recommendations provided by Pylint.
 The source code for the Kahooa Board Game can be found in my [GitHub repository](https://github.com/ShivamS-9/vulture-vs-crows-game-kaooa-).
 
 ## Linting Process
