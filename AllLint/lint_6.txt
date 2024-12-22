@@ -1,0 +1,2 @@
+************* Module kaooa_6.py
+kaooa_6.py:1:0: F0001: No module named kaooa_6.py (fatal)
